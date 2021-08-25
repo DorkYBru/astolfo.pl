@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Ungai';
+   font-display: swap;
+   src: url('Ungai/font.ttf');
+}
+@font-face {
+   font-family: 'electroharmonix';
+   font-display: swap;
+   src: url('electroharmonix/font.ttf');
+}
