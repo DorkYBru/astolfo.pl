@@ -1,4 +1,8 @@
-# mod_rewrite starts
+#Error 404
+
+ErrorDocument 404 /index.html
+
+#mod_rewrite
 
 RewriteEngine on
 
