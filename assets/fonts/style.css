@@ -35,3 +35,7 @@ h2:hover span{
   0 0 20px rgb(255, 255, 255), 
   0 0 40px rgb(255, 255, 255);
 }
+.container a {
+   color: #484848;
+   text-decoration: none;
+ }
