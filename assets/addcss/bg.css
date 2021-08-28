@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 .slideInDown {
     -webkit-animation-name: slideInDown;
     animation-name: slideInDown;
@@ -36,3 +29,5 @@
     transform: translateY(0);
     }
     } 
+
+    
